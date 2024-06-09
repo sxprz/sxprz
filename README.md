@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a Minecraft mod called Realistic Vehicles](https://modrinth.com/mod/realistic-vehicles)
 
-- 🌱 I’m currently learning **React and Angular**
+- 🌱 I’m currently learning and improving **Angular & Spring Framework** skills
 
 - 👨‍💻 All of my projects are available on [my website, which is under construction](http://www.suprize.de)
 
