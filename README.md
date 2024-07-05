@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sxprz</h1>
 <h3 align="center">A passionate full-stack developer from Germany</h3>
 
-- 🔭 I’m currently working on [a Minecraft mod called Realistic Vehicles](https://modrinth.com/mod/realistic-vehicles)
+- 🔭 I’m currently working on a Minecraft mod called Realistic Vehicles, which will be released on [Modrinth](https://modrinth.com/mod/realistic-vehicles) soon
 
 - 🌱 I’m currently learning and improving **Angular & Spring Framework** skills
 
